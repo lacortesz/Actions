@@ -14,6 +14,7 @@ class Persona:
        self.__nombre = nombre
 
    def dar_edad(self):
+       #comentario para automerge
        return(self.__edad)
 
    def dar_nombre(self):
